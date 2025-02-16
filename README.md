@@ -15,11 +15,4 @@ Our mission is to keep the citizens of Los Santos informed with reliable and unb
 
 ## 🌐 Website
 This repository powers the **BMNews** website through **GitHub Pages**. You can visit the site at:
-🔗 [BMNews Official Website](https://your-github-username.github.io/BMNews/) *(Update with actual URL)*
-
-## 🚀 Getting Started
-If you’d like to contribute, report issues, or suggest improvements, follow these steps:
-
-### 1️⃣ Clone the Repository
-```sh
-git clone https://github.com/your-github-username/BMNews.git
+🔗 [BMNews Official Website](https://bmnews.github.io/)
